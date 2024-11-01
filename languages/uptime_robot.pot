@@ -1,0 +1,170 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Uptime Robot\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon May 30 2016 19:48:17 GMT-0400 (Eastern Daylight Time)\n"
+"POT-Revision-Date: Mon May 30 2016 19:50:26 GMT-0400 (Eastern Daylight Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: administrator <null@carbon.local>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Uptime Robot"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://onepixelright.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A simple Wordpress dashboard widget that shows you the current uptime stats "
+"of your Uptime Robot monitored websites."
+msgstr ""
+
+#. Author of the plugin
+msgid "Brian C. Welch"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://briancwelch.com"
+msgstr ""
+
+#: ../classes/class-admin-widget.php:49
+msgid "Status"
+msgstr ""
+
+#: ../classes/class-admin-widget.php:51
+msgid "ID"
+msgstr ""
+
+#: ../classes/class-admin-widget.php:53
+msgid "Name"
+msgstr ""
+
+#: ../classes/class-admin-widget.php:55
+msgid "Type"
+msgstr ""
+
+#: ../classes/class-admin-widget.php:58
+msgid "Ratio"
+msgstr ""
+
+#: ../classes/class-admin-widget.php:115
+msgid ""
+"You have not entered your API key in the <a href=\"/wp-admin/options-general."
+"php?page=uptime-robot\">options section</a>"
+msgstr ""
+
+#: ../classes/class-admin-widget.php:116
+msgid "Please do so to see your available site monitors."
+msgstr ""
+
+#: ../classes/class-data.php:49
+msgid "Paused"
+msgstr ""
+
+#: ../classes/class-data.php:52
+msgid "Unchecked"
+msgstr ""
+
+#: ../classes/class-data.php:55
+msgid "Up"
+msgstr ""
+
+#: ../classes/class-data.php:58
+msgid "Appears Down"
+msgstr ""
+
+#: ../classes/class-data.php:61
+msgid "Down"
+msgstr ""
+
+#: ../classes/class-data.php:64
+msgid "Unknown"
+msgstr ""
+
+#: ../classes/class-data.php:109 ../classes/class-data.php:112
+msgid "warning"
+msgstr ""
+
+#: ../classes/class-data.php:115
+msgid "success"
+msgstr ""
+
+#: ../classes/class-data.php:118 ../classes/class-data.php:121
+msgid "danger"
+msgstr ""
+
+#: ../classes/class-data.php:124
+msgid "info"
+msgstr ""
+
+#: ../classes/class-data.php:139
+msgid "HTTP(S)"
+msgstr ""
+
+#: ../classes/class-data.php:142
+msgid "Keyword"
+msgstr ""
+
+#: ../classes/class-data.php:145
+msgid "Ping"
+msgstr ""
+
+#: ../classes/class-data.php:148
+msgid "Port"
+msgstr ""
+
+#: ../classes/class-data.php:164
+msgid "HTTP"
+msgstr ""
+
+#: ../classes/class-data.php:167
+msgid "HTTPS"
+msgstr ""
+
+#: ../classes/class-data.php:170
+msgid "FTP"
+msgstr ""
+
+#: ../classes/class-data.php:173
+msgid "SMTP"
+msgstr ""
+
+#: ../classes/class-data.php:176
+msgid "POP3"
+msgstr ""
+
+#: ../classes/class-data.php:179
+msgid "IMAP"
+msgstr ""
+
+#: ../classes/class-data.php:182
+msgid "Custom Port"
+msgstr ""
+
+#: ../classes/class-widget.php:22
+msgid "Adds an Uptime Robot widget to the any widget area."
+msgstr ""
+
+#: ../classes/class-widget.php:62
+msgid "Title:"
+msgstr ""
